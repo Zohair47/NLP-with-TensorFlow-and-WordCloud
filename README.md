@@ -40,14 +40,6 @@ This project explores a sentiment analysis task using a text dataset. It walks t
 - Achieved decent accuracy for sentiment classification
 - WordClouds provided strong visual insights into common word usage in different sentiment groups
 
-## 📸 Visualizations
-
-| WordCloud (Positive Sentiment) | WordCloud (Negative Sentiment) |
-|-------------------------------|-------------------------------|
-| ![Positive WordCloud](path/to/your/image1.png) | ![Negative WordCloud](path/to/your/image2.png) |
-
-> *(Replace `path/to/your/image.png` with actual GitHub image paths once uploaded to your repo.)*
-
 ## 🚀 Future Improvements
 
 - Experiment with more advanced models: LSTM, GRU, or Transformers
